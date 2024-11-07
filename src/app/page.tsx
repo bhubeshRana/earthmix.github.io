@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <div className={styles.page}>
-      This is earthmix new 1
+      This is earthmix new test
       {/* <main className={styles.main}>
         <Image
           className={styles.logo}
