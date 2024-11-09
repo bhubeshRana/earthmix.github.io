@@ -1,5 +1,5 @@
 // import Image from "next/image";
-import styles from "./page.module.css";
+// import styles from "./page.module.css";
 import image1 from "../../public/1.jpeg"
 import image2 from "../../public/2.jpg"
 import image3 from "../../public/3.jpg"
